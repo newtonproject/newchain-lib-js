@@ -1,7 +1,7 @@
 {
-  "name": "eth-lib",
-  "version": "0.2.8",
-  "description": "Lightweight Ethereum libraries",
+  "name": "newchain-lib",
+  "version": "0.0.0",
+  "description": "The implementation of NewChain basic operation.",
   "main": "lib/index.js",
   "scripts": {
     "build": "babel src --out-dir=lib",
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maiavictor/eth-lib.git"
+    "url": "git+https://github.com/xiawu/newchain-lib.js.git"
   },
   "keywords": [
-    "ethereum"
+    "newchain"
   ],
-  "author": "Victor Maia",
+  "author": "Xia Wu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maiavictor/eth-lib/issues"
+    "url": "https://github.com/xiawu/newchain-lib.js/issues"
   },
-  "homepage": "https://github.com/maiavictor/eth-lib#readme",
+  "homepage": "https://github.com/xiawu/newchain-lib.js#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-preset-es2015": "^6.24.1",
